@@ -54,17 +54,6 @@
 
             </div>
 
-            {{-- RIGHT --}}
-            <div class="flex justify-center">
-
-                <div class="bg-[#CDE8E5] w-72 h-72 rounded-3xl shadow-xl flex items-center justify-center">
-
-                    <img src="{{ asset('storage/images/logo.png') }}">
-
-                </div>
-
-            </div>
-
         </div>
 
     </div>

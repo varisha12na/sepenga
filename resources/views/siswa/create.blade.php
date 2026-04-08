@@ -4,7 +4,7 @@
 
 <div class="min-h-screen bg-[#EDECE] py-10 px-4">
 
-    {{-- SUCCESS ALERT CENTER --}}
+    {{-- SUCCESS ALERT --}}
     @if(session('success'))
         <div id="successAlert"
              class="fixed inset-0 flex items-center justify-center z-50">
@@ -114,7 +114,7 @@
 </div>
 
 
-{{-- SCRIPT AUTO CLOSE ALERT --}}
+{{-- ALERT --}}
 <script>
 function closeAlert() {
     let alert = document.getElementById('successAlert');

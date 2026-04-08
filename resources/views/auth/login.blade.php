@@ -8,9 +8,7 @@
     <div class="hidden md:flex w-1/2 bg-[#CDE8E5] items-center justify-center">
 
         <div class="text-center max-w-md px-8 space-y-3">
-
-            <img src="{{ asset('storage/images/logo.png') }}" class="mx-auto w-56">
-
+             
             <h1 class="text-4xl font-bold text-[#4D869C] mb-2">
                 LAPORIN
             </h1>
